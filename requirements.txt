@@ -1,1 +1,1 @@
-pywebview==6.2.1
+# Python standard library only. No pywebview, GTK, or Qt.
